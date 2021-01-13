@@ -1,0 +1,6 @@
+windows sdk version: 10.0 (latest installed version)
+platform toolset: Visual Studio 2019 (v142)
+c++ language standards: Preview - Features from the Latest C++ Working Draft (/std:c++latest)
+c language standard: Default (Legacy MSVC)
+
+also use release/x86 (debug/x86 is buggy)
